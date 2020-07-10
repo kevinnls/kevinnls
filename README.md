@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋>
 
 <!--
 **kevinnls/kevinnls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 booyah!
+you might find me behind bash, vscode, w3schools, google, or, stackexchange having no to very little idea of what i'm doing or where i'm going.
+
+but hey, i usually reach where i want to go! :D
