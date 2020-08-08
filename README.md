@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![kevinnls' github stats](https://github-readme-stats.vercel.app/api?username=kevinnls)](https://github.com/kevinnls/github-readme-stats)
+
 <span style="color:pink">booyah!</span>
 you might find me behind bash, vscode, w3schools, google, or, stackexchange having no to very little idea of what i'm doing or where i'm going.
 
