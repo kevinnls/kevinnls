@@ -31,3 +31,7 @@ but hey, i usually reach where i want to go! :D
     <img alt="kevinnls' top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnls&layout=compact&theme=dracula"/>
   </a>
 </p>
+
+---
+
+ 🧑‍💻 participating in the occasional hackathon or two at [@notknowofdoing](//github.com/notknowofdoing "!know(doing)")
