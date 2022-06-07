@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 booyah!  
-you might find me behind bash, vscode, w3schools, google, or, stackexchange having no to very little idea of what i'm doing or where i'm going.
+you might find me behind bash, vscode, mdn web docs, google, or, stackexchange having no to very little idea of what i'm doing or where i'm going.
 
 but hey, i usually reach where i want to go! :D
 
